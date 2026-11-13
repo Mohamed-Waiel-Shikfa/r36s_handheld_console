@@ -1,0 +1,29 @@
+up = up
+down = down
+left = left
+right = right
+
+left_analog_up = w
+left_analog_down = s
+left_analog_left = a
+left_analog_right = d
+
+right_analog_up = i
+right_analog_down = k
+right_analog_left = j
+right_analog_right = l
+
+a = space
+b = z
+x = x
+y = c
+
+l1 = q
+r1 = e
+l2 = r
+r2 = p
+l3 = 1
+r3 = 2
+
+start = enter
+back = esc
